@@ -2,16 +2,16 @@
 
 
 /// 
-struct StLib { }
+struct StaLib { }
 
 /// Probablity Theory Event
-extension StLib {
-  struct StEvent {
+extension StaLib {
+  struct StaEvent {
   }
 }
 
 /// classic term of probability
-extension StLib {
+extension StaLib {
   func probability() -> Double {
 
   }
