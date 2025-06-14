@@ -1,4 +1,8 @@
 
+public enum StaProbType {
+    case elementary
+}
+
 
 struct StaLib {}
 
