@@ -13,3 +13,6 @@ It includes formulas from statistics as mentioned, probability theory and combin
 #### brew
 
 #### git clone
+
+## Usage
+
