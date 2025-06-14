@@ -16,3 +16,12 @@ It includes formulas from statistics as mentioned, probability theory and combin
 
 ## Usage
 
+### Swift
+
+### Dart
+
+### Rust
+
+### JS
+
+
