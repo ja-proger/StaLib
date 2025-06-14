@@ -6,6 +6,14 @@ It includes formulas from statistics as mentioned, probability theory and combin
 - StaLib — library with formulas, algorithms
 - StaUI — GUI for library (example of UI which applies the StaLib)
 
+## License
+
+I know that many people don't like huge licenses, therefore I list key points here 😉
+
+- The author is the person, who hides his personality under JA Proger name
+- To use this code, you must give a reference to the author — JA Proger and to this repository
+
+
 ## Installation
 
 ### macOS
