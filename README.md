@@ -27,14 +27,24 @@ I know that many people don't like huge licenses, therefore I list key points he
 ### Swift
 
 ```swift
+import StaLib
+
 
 ```
 
-
 ### Dart
+_In work_
+
+```dart
+import 'StaLib';
+```
 
 ### Rust
 
-### JS
 
+
+### JS
+```js
+
+```
 
