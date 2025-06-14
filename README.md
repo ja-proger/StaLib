@@ -1,6 +1,6 @@
 # StatisticsLib | StaLib
 This repository was made for educational purposes. It includes realizations of statistics formulas in languages which I either know, or am learning now.
-
+It includes formulas from statistics, probability theory and combinatorics.
 
 ## Structure of the _StaLib_
 - StaLib — library
