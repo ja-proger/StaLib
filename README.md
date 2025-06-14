@@ -3,3 +3,5 @@ This repository was made for educational purposes. It includes realizations of s
 
 
 ## Structure of the _StaLib_
+- StaLib — library
+- StaUI — GUI for library
