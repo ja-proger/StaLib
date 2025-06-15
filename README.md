@@ -15,6 +15,8 @@ I know that many people don't like huge licenses, therefore I list key points he
 - This code is free to use in commercial purposes, because it was created in educational purposes.
 - It is prohibited to monopolize this code.
 - It is prohibited to use the name of this repository — _**"StaLib"**_ in commercial purposes without permission of the Author.
+- The licenser have to obey to Usage Policy.
+
 
 ## Installation
 
