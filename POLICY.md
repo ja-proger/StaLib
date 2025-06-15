@@ -6,9 +6,8 @@
 
 ## B. Subject
 1. User is prohibited to use the Code in unethical goals
-    
-1.1. terrorism, 
-1.2. racism, 
-1.3. etc.
+- terrorism, 
+- racism, 
+- etc.
 
 
