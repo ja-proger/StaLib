@@ -11,8 +11,10 @@ It includes formulas from statistics as mentioned, probability theory and combin
 I know that many people don't like huge licenses, therefore I list key points here 😉
 
 - The author is the person, who hides his personality under JA Proger name
-- To use this code, you must give a reference to the author — JA Proger and to this repository
-
+- To use this code, *you must give a reference to the author* (further Author) — JA Proger and the link to this repository
+- This code is free to use in commercial purposes, because it was created in educational purposes.
+- It is prohibited to monopolize this code.
+- It is prohibited to use the name of this repository — _"StaLib"_ in commercial purposes without permission of the Author.
 
 ## Installation
 
