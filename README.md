@@ -45,6 +45,9 @@ import 'StaLib';
 
 ### Rust
 
+```rust
+
+```
 
 
 ### JS
